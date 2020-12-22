@@ -42,6 +42,7 @@ module.exports = exports = function plugin(schema, options) {
 	}
 
 	// apply getters
+	//
 	// schema.post('init', applyGetters(getters, options.getters))
 	// schema.post('save', applyGetters(getters, options.getters))
 
